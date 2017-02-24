@@ -1,4 +1,5 @@
 package regex.controller;
+
 import regex.view.RegexFrame;
 
 public class RegexController 
